@@ -1,4 +1,5 @@
 package antipattern;
 
-public class Escolas extends Cliente {  
+public class Escolas extends Cliente {
+      
 }
