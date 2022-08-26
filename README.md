@@ -1,5 +1,5 @@
-<h2 align="center"> 
+<h1 align="center"> 
   🚀 Bertoti
-</h2>
+</h1>
 
 Repository created for use in software engineering III classes.
