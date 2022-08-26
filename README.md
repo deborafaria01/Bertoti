@@ -2,6 +2,6 @@
   🚀 Bertoti
 </h1>
 
-<h1 align="center"> 
-**Repository created for use in software engineering III classes.**
-</h1>
+<h3 align="center"> 
+  Repository created for use in software engineering III classes.
+</h3>
