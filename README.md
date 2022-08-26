@@ -1,3 +1,3 @@
-## Bertoti
+# Bertoti
 
-**Repository created for use in software engineering III classes.**
+Repository created for use in software engineering III classes.
