@@ -1,15 +1,14 @@
 package antipattern;
 
-//Comportamento de emprestar livros da biblioteca: Estudantes e Professores tem condicoes especiais
-//O problema eh que o emprestimo sem condicoes especiais esta sendo duplicado nas classes Estudantes e Outros
-//Conclusao: Heranca eh um antipattern
+//Comportamento de alugar quadras de tenis: Socios e Empresas tem condições especiais
+//O problema é que o aluguel sem condições especiais está sendo duplicado em NaoSocios e OrgPublica
 
 public abstract class Cliente {
 	
-	private String cadastro;
+	private String aluguel;
 	
-	//emprestar com condicoes especiais
-	public void emprestar() {
+	//Alugar com condições especiais
+	public void alugar() {
 		
 	}
 
