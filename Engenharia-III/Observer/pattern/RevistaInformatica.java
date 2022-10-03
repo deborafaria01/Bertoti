@@ -19,7 +19,7 @@ public class RevistaInformatica extends Observable {
 		//poderia receber a nova edicao atraves de um recurso externo
 		int novaEdicao = 3;
 		RevistaInformatica revistaInformatica = new RevistaInformatica();
-		Assinante1 Assinante1 = new Assinante1(revistaInformatica);
+		new Assinante1(revistaInformatica);
 
 		revistaInformatica.setNovaEdicao(novaEdicao);
 	}
