@@ -5,8 +5,6 @@ package antipattern;
 
 public abstract class Cliente {
 	
-	private String aluguel;
-	
 	//Alugar com condições especiais
 	public void alugar() {
 		
