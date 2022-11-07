@@ -11,13 +11,11 @@ public class Atendente extends Funcionario{
 
 	@Override
 	protected void adicionar(Funcionario funcionario) {
-		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	protected void remover(Funcionario funcionario) {
-		// TODO Auto-generated method stub
 		
 	}
 }

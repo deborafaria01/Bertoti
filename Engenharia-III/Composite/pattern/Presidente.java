@@ -14,11 +14,9 @@ public class Presidente extends Supervisor{
 	
 	@Override
 	public void adicionar(Funcionario novoFuncionario) {
-		// TODO Auto-generated method stub
 	}
 	
 	@Override
 	protected void remover(Funcionario funcionario) {
-		// TODO Auto-generated method stub
 	}
 }
