@@ -13,4 +13,3 @@ public class Singleton {
 	}
 }
 
-// Verificar se está correto
