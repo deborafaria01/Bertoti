@@ -1,4 +1,5 @@
 public class Gerente extends Supervisor{
+	
 	public Gerente(String nomeDoSupervisor) {
 		super(nomeDoSupervisor);
         this.nomeFuncionario = nomeDoSupervisor;
