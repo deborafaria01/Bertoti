@@ -1,4 +1,3 @@
-
 package javafx.mvc.controller;
 
 import java.net.URL;
@@ -11,11 +10,6 @@ import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
-/**
- * FXML Controller class
- *
- * @author Nayara
- */
 public class LoginController implements Initializable {
     
     

@@ -1,9 +1,4 @@
 package javafx.mvc.model;
-
-/**
- *
- * @author Nayara
- */
 public class Cliente {
 
     private long id;

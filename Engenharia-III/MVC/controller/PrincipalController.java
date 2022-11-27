@@ -1,4 +1,3 @@
-
 package javafx.mvc.controller;
 
 import java.io.IOException;
@@ -13,11 +12,6 @@ import javafx.scene.control.MenuItem;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-/**
- * FXML Controller class
- *
- * @author Nayara
- */
 public class PrincipalController implements Initializable {
 
     private Stage stagePrincipal;

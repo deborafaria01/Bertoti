@@ -1,4 +1,3 @@
-
 package javafx.mvc;
 
 import java.io.IOException;
@@ -11,11 +10,6 @@ import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-
-/**
- *
- * @author Nayara
- */
 public class Main extends Application {
     
     @Override
@@ -64,9 +58,6 @@ public class Main extends Application {
         
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         launch(args);
     }
